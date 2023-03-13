@@ -9,7 +9,7 @@ To run the project need to go the project folder like below::
 
 C:\Users\Documents\Pokemon-application
 
-and run the command npm start the project will start in http://localhost:1234
+and run the command npm install to install nodeModules to run the project , then do npm start  the project will start in http://localhost:1234
 open the URL in browser to run the application.
 
 To run the unit test::
